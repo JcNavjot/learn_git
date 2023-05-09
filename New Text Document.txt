@@ -1,0 +1,6 @@
+Data_science_Projects
+I completed these projects as part of the tasks, assignments and projects which I completed as part of the Artificial Intelligence course by Intellipaat, Machine_learning A-Z(Udemy) and Python for Machine learning and Data Science Masterclass. The projects are implemented in Python language ...
+
+The Projects and Assignments are based on Python, Machine learning and deep learning.
+
+I have separated Supervised learning, unsupervised learning and Capstone projects which are part of machine learning for better organization.
